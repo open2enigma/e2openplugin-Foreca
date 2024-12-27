@@ -234,7 +234,7 @@ msgstr "Lettergrootte in slideshow"
 
 #: ../plugin.py:21 ../plugin.py:27 ../ui.py:635 ../ui.py:654
 msgid "Foreca Weather Forecast"
-msgstr "Foreca Weer Voorspelling"
+msgstr "Foreca Weersverwachting"
 
 #: ../ui.py:1124
 msgid "Forecast"
@@ -286,7 +286,7 @@ msgstr "Startpagina"
 
 #: ../ui.py:1451
 msgid "Hungary"
-msgstr "Hongarije "
+msgstr "Hongarije"
 
 #: ../ui.py:183
 msgid "Imperial (C, mph)"
@@ -470,7 +470,7 @@ msgstr "Kies een Stad"
 
 #: ../ui.py:1933
 msgid "Select time format"
-msgstr "Tijdformaat"
+msgstr "Selecteer tijdformaat"
 
 #: ../ui.py:1932
 msgid "Select units"
