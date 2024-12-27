@@ -526,7 +526,7 @@ msgstr "Svizzera"
 
 #: ../ui.py:454
 msgid "Temp"
-msgstr "Temperatura"
+msgstr "Temp"
 
 #: ../ui.py:1384
 msgid "Temperature Video"
