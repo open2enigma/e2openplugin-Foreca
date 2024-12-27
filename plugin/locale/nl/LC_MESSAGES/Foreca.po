@@ -134,7 +134,7 @@ msgstr "Berlijn"
 
 #: ../ui.py:1138
 msgid "Blue - Assign to Home"
-msgstr "Blauw - Opslagen als Startpagina"
+msgstr "Blauw - Opslaan als Startpagina"
 
 #: ../ui.py:673
 msgid "Blue - Home"
@@ -170,7 +170,7 @@ msgstr "Stad"
 
 #: ../ui.py:1934
 msgid "City names as labels in the Main screen"
-msgstr "Stad namen als labels in het hoofdscherm"
+msgstr "Stadsnamen als labels in het hoofdscherm"
 
 #: ../ui.py:1385
 msgid "Cloudcover Video"
@@ -198,11 +198,11 @@ msgstr "Toon in plugin menu"
 
 #: ../ui.py:1134 ../ui.py:1371 ../ui.py:1632
 msgid "Down - Next"
-msgstr "Neer - Volgende"
+msgstr "Omlaag - Volgende"
 
 #: ../ui.py:666
 msgid "Down - Next page"
-msgstr "Neer - Volgende pagina"
+msgstr "Omlaag - Volgende pagina"
 
 #: ../ui.py:1479
 msgid "East Asia"
@@ -258,11 +258,11 @@ msgstr "Groot Britannië"
 
 #: ../ui.py:1449
 msgid "Greece"
-msgstr "Griekenland "
+msgstr "Griekenland"
 
 #: ../ui.py:1136
 msgid "Green - Assign to Favorite 1"
-msgstr "Groen - Opslagen als Favoriet 1"
+msgstr "Groen - Opslaan als Favoriet 1"
 
 #: ../ui.py:1373
 msgid "Green - Europe"
@@ -290,7 +290,7 @@ msgstr "Hongarije "
 
 #: ../ui.py:183
 msgid "Imperial (C, mph)"
-msgstr "Brits (C, mph)"
+msgstr "Imperial (C, mph)"
 
 #: ../ui.py:661
 msgid "Info - Legend"
@@ -318,7 +318,7 @@ msgstr "Links - Vorige pagina"
 
 #: ../ui.py:667
 msgid "Left arrow - Previous day"
-msgstr "Linker pijl - Vorige dag"
+msgstr "Pijl links - Vorige dag"
 
 #: ../ui.py:652
 msgid "Legend"
@@ -402,7 +402,7 @@ msgstr "Even geduld a.u.b., foto wordt geladen..."
 
 #: ../ui.py:1457
 msgid "Poland"
-msgstr "Polen "
+msgstr "Polen"
 
 #: ../ui.py:1458
 msgid "Portugal"
@@ -430,11 +430,11 @@ msgstr "Rechts - Volgende pagina"
 
 #: ../ui.py:668
 msgid "Right arrow - Next day"
-msgstr "Juiste pijl - Volgende dag"
+msgstr "Pijl rechts - Volgende dag"
 
 #: ../ui.py:1459
 msgid "Russia"
-msgstr "Rusland "
+msgstr "Rusland"
 
 #: ../ui.py:1429
 msgid "Saarland"
@@ -490,7 +490,7 @@ msgstr "Buienradar Video"
 
 #: ../ui.py:1938
 msgid "Slide Time (seconds)"
-msgstr "Dia tijd"
+msgstr "Dia Tijd (seconden)"
 
 #: ../ui.py:1942
 msgid "Slide picture in loop"
@@ -530,7 +530,7 @@ msgstr "Temp"
 
 #: ../ui.py:1384
 msgid "Temperature Video"
-msgstr "Temperatuur Video "
+msgstr "Temperatuur Video"
 
 #: ../ui.py:1940
 msgid "Textcolor"
@@ -576,11 +576,11 @@ msgstr "VS (F, mph)"
 
 #: ../ui.py:1133 ../ui.py:1370 ../ui.py:1631
 msgid "Up - Previous"
-msgstr "Op - Vorige"
+msgstr "Omhoog - Vorige"
 
 #: ../ui.py:665
 msgid "Up - Previous page"
-msgstr "Op - Vorige pagina"
+msgstr "Omhoog - Vorige pagina"
 
 #: ../ui.py:654
 msgid "Version "
@@ -596,7 +596,7 @@ msgstr "Volume- - 100 vooruit"
 
 #: ../plugin.py:22 ../plugin.py:28
 msgid "Weather forecast for the upcoming 10 days"
-msgstr "Weer voorspelling voor de komende 10 dagen"
+msgstr "Weersverwachting voor de komende 10 dagen"
 
 #: ../ui.py:1382
 msgid "Weather map Video"
@@ -612,7 +612,7 @@ msgstr "Wind"
 
 #: ../ui.py:1137
 msgid "Yellow - Assign to Favorite 2"
-msgstr "Geel - Opslagen als Favoriet 2"
+msgstr "Geel - Opslaan als Favoriet 2"
 
 #: ../ui.py:672
 msgid "Yellow - Favorite 2"
