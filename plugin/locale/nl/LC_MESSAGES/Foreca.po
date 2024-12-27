@@ -186,7 +186,7 @@ msgstr "Tsjechische republiek"
 
 #: ../ui.py:1944
 msgid "Debug"
-msgstr "Debug"
+msgstr "Foutopsporing"
 
 #: ../ui.py:1446
 msgid "Denmark"
@@ -458,7 +458,7 @@ msgstr "Saksen-Anhalt"
 
 #: ../ui.py:1937
 msgid "Scaling Mode"
-msgstr "Scaling Mode"
+msgstr "Schaalmodus"
 
 #: ../ui.py:1432
 msgid "Schleswig-Holstein"
@@ -490,7 +490,7 @@ msgstr "Buienradar Video"
 
 #: ../ui.py:1938
 msgid "Slide Time (seconds)"
-msgstr "Dia Tijd (seconden)"
+msgstr "Dia tijd (seconden)"
 
 #: ../ui.py:1942
 msgid "Slide picture in loop"
@@ -498,7 +498,7 @@ msgstr "Dia voorstelling herhalen"
 
 #: ../ui.py:1905 ../ui.py:1908
 msgid "SlideShow Settings"
-msgstr "Diashow Instellingen"
+msgstr "Diashow instellingen"
 
 #: ../ui.py:1460
 msgid "Slovakia"
